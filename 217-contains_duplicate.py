@@ -1,7 +1,7 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         # create a seenvalue list
-        seenValues = []
+        seenValues = set()
 
         # loop through nums list
         for num in nums:
@@ -9,5 +9,6 @@ class Solution:
                 if (num in seenValues):
                     return True
                 # append seen values to the seevvalue variable    
-                seenValues.append(num)
+                seenValues.add(num)
+                num += 1
         return False
