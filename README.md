@@ -17,3 +17,5 @@ Directories |
 
 ## Author 
 Wanton Raven
+
+- `NB` - To get more information check in the directories stated above
