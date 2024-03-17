@@ -16,6 +16,6 @@ Directories |
 [9.Palindrome_Number.py](./9.Palindrome_Number.py) |
 
 ## Author 
-Wanton Raven
+Joseph Kakai Ngalu
 
 - `NB` - To get more information check in the directories stated above
