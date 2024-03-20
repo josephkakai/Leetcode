@@ -8,12 +8,12 @@ Given the head of a sorted linked list, delete all duplicates such that each ele
  
 
 ## Example 1:
-[fig 1]('./Assets/list1.jpg')
+![fig 1](./Assets/list1.jpg)
 
 Input: head = [1,1,2]
 Output: [1,2]
 ## Example 2:
-[fig 2]('./Assets/list2.jpg')
+![fig 2](./Assets/list2.jpg)
 
 Input: head = [1,1,2,3,3]
 Output: [1,2,3]
